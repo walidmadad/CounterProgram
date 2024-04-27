@@ -1,3 +1,5 @@
+// Count program in JavaScript
+
 const countLabel = document.getElementById('count');
 const decreaseBtn = document.getElementById('decreaseBtn');
 const increaseBtn = document.getElementById('increaseBtn');
